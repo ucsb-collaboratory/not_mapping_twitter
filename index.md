@@ -1,5 +1,9 @@
 ## Please don't map Twitter
 
+Less than 3% of tweets have location metadata <citation needed>. However, they are still a great source of information.
+
+If users tag a place, the tweet will contain an entry, consisting of a geoJSON polygon, from Twitter&#39;s placename dictionary.&nbsp; If users share their exact location, the tweet will contain a geoJSON point.
+
 - Ex. of why it doesn't work
  - BLM
 - Ethics / GDPR
