@@ -1,3 +1,7 @@
+---
+output = html_document
+---
+
 ## Please don't map Twitter
 
 Less than 3% of tweets have location data <citation needed>. However, they are still a great source of information.
