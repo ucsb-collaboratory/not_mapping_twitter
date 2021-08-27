@@ -1,47 +1,20 @@
 ## Please don't map Twitter
 
-Less than 3% of tweets have location metadata <citation needed>. However, they are still a great source of information.
+Less than 3% of tweets have location data <citation needed>. However, they are still a great source of information.
 
-If users tag a place, the tweet will contain an entry, consisting of a geoJSON polygon, from Twitter&#39;s placename dictionary.&nbsp; If users share their exact location, the tweet will contain a geoJSON point.
+For those few tweets that do have location data, it appears when a user tags a place or shares their exact location. 
 
-- Ex. of why it doesn't work
- - BLM
-- Ethics / GDPR
-- Why can't you?
- - tiny slice
- - people lie
- - people are complicated 
-- Ex. of when you can
+### Why not?
+Beyond being a tiny slice of the Twitterverse, there are several other reasons why you should not map Twitter.
 
+ - Many researchers have examined using Twitter users' self-reported profile location <citation needed>. However, that profile field is free-text and can contain any number of entries that will not map. Mapping based on profile home location also will create false locations for anyone tweeting while traveling outside of their home city (assuming their location is a city, such as "Santa Barbara, California," and not something silly like "Trump Town, USA" 
+ - people are complicated
+ - people lie. It is not difficult to tell Twitter that you are someplace where you are not.
+ - Centerpoints or polygons?
+the tweet will contain an entry, consisting of a geoJSON polygon, from Twitter&#39;s placename dictionary.&nbsp; If users share their exact location, the tweet will contain a geoJSON point.
+- There are complex [ethical and legal ramifications of mapping Tweets](ethics). Mapping Tweets can inadvertantly reveal the locations and identities of political dissidents, at-risk individuals, and ordinary people who have not offered their consent to be in your dataset. 
 
-### Markdown
+### When can I?
+We are not saying never to map a set of Tweets. Public information offices of municipal and county police departments sometimes Tweet out locations of reported crimes. Some firetrucks will Tweet their geolocation then they arrive at a call in order to publicly log a response time. There are any number of useful robots that geotag their Tweets.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ucsb-collaboratory/not_mapping_twitter/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Advice on mapping Tweets](mapping)
