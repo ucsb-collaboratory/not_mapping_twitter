@@ -1,3 +1,8 @@
+---
+layout: page
+title: Proportions
+---
+
 The Collaboratory has made several attempts to measure how few Tweets have geolocation data 
 embedded in their metadata. We have found that it is consistantly less than 10%, unless one
 specifically attempts to find them on purpose.
