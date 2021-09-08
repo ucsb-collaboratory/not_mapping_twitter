@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Proportions
-output = html_document
+output: html_document
 ---
 
 The Collaboratory has made several attempts to measure how few Tweets have geolocation data 
