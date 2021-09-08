@@ -15,9 +15,7 @@ Beyond being a tiny slice of the Twitterverse, there are several other reasons w
  - people lie. It is not difficult to tell Twitter that you are someplace where you are not.
  - Centerpoints or polygons?
 the tweet will contain an entry, consisting of a geoJSON polygon, from Twitter&#39;s placename dictionary.&nbsp; If users share their exact location, the tweet will contain a geoJSON point.
-- There are complex [ethical and legal ramifications of mapping Tweets](ethics.md). Mapping Tweets can inadvertantly reveal the locations and identities of political dissidents, at-risk individuals, and ordinary people who have not offered their consent to be in your dataset.    
- 
-[Advice on mapping Tweets](mapping.md)    
+- There are complex [ethical and legal ramifications of mapping Tweets](ethics.md). Mapping Tweets can inadvertantly reveal the locations and identities of political dissidents, at-risk individuals, and ordinary people who have not offered their consent to be in your dataset.       
 
 ### When can I?
 We are not saying never to map a set of Tweets. Public information offices of municipal and county police departments sometimes Tweet out locations of reported crimes. Some firetrucks will Tweet their geolocation then they arrive at a call in order to publicly log a response time. There are any number of useful robots that geotag their Tweets.    
