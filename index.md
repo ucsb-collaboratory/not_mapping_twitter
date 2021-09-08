@@ -19,4 +19,4 @@ the tweet will contain an entry, consisting of a geoJSON polygon, from Twitter&#
 
 ### When can I?
 We are not saying never to map a set of Tweets. Public information offices of municipal and county police departments sometimes Tweet out locations of reported crimes. Some firetrucks will Tweet their geolocation then they arrive at a call in order to publicly log a response time. There are any number of useful robots that geotag their Tweets. 
-[Advice on mapping Tweets](mapping.md) 
+[Advice on mapping Tweets](mapping) 
