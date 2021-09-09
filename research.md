@@ -1,4 +1,4 @@
-# Not available on sidebar (for Jon)
+# For Jon
 - Just some notes I took on different resources about why we shouldn't map twitter
 
 ## Why Most Twitter Maps Can't Be Trusted
