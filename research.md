@@ -1,6 +1,6 @@
 ---
 title: Citations and More Reading
-layout: none
+layout: page
 ---
 
 ## Why Most Twitter Maps Can't Be Trusted
@@ -18,3 +18,10 @@ layout: none
 
 ## The Problem with Twitter Maps
 [Article](https://www.languagejones.com/blog-1/2014/12/24/the-problem-with-twitter-maps)
+
+
+## Knowing the Tweeters: Deriving sociologically relevant demographics from Twitter. 
+[Article](https://dx.doi.org/10.1371%2Fjournal.pone.0142209) 
+Sociological Research Online 18(3), article number: 7. 
+
+- Sloan and company estimated in 2013 that 8% of Tweets are geotagged each day
