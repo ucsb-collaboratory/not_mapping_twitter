@@ -4,6 +4,8 @@ title: Please Don't Map Twitter
 output: html_document
 ---
 
+*Test if Github Pages has loaded*
+
 [Less than 3% of tweets have location data](proportions.md). However, they are still a great source of information.
 
 For those few tweets that do have location data, it appears when a user tags a place or shares their exact location. 
