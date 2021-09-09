@@ -4,7 +4,9 @@ layout: page
 ---
 
 ## Why Most Twitter Maps Can't Be Trusted
-[Article](https://www.bloomberg.com/news/articles/2015-03-26/why-most-twitter-maps-can-t-be-trusted)   
+[Article](https://www.bloomberg.com/news/articles/2015-03-26/why-most-twitter-maps-can-t-be-trusted) 
+Marshall, A. (2015, March 26). Why Most Twitter Maps Can't Be Trusted. Bloomberg.com. 
+
 - "Twitter maps are less representations of deep, social phenomena and more depictions of population patterns."
 - "This “points on a map” approach doesn't teach the map viewer anything about tweet density. What looks like one point on a map may actually be 14 on top of each other."
 - "How do researchers adjust for spambots, which often glom onto trending Twitter topics to auto-promote their wares? What about "power users," people who obsessively tweet with the same hashtag over and over and over again?"
