@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mapping
+title: Mapping Advice
 output: html_document
 ---
 
