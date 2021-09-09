@@ -1,6 +1,6 @@
 ---
 title: Citations and More Reading
-layout: none
+layout: page
 ---
 
 ## Why Most Twitter Maps Can't Be Trusted
