@@ -3,6 +3,8 @@ title: Citations and More Reading
 layout: page
 ---
 
+updated?
+
 ## Why Most Twitter Maps Can't Be Trusted
 [Article](https://www.bloomberg.com/news/articles/2015-03-26/why-most-twitter-maps-can-t-be-trusted) 
 Marshall, A. (2015, March 26). Why Most Twitter Maps Can't Be Trusted. Bloomberg.com. 
