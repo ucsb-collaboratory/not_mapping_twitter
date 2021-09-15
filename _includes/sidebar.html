@@ -28,8 +28,10 @@
 
   <div class="sidebar-item">
     <p>
-      &copy; {{ site.established }}-{{ site.time | date: '%Y' }} {{ site.author.name }} <br/> <a href="{{ site.license_url }}">{{ site.license }}</a>
+      {% comment %}
+         &copy; {{ site.established }}-{{ site.time | date: '%Y' }} {{ site.author.name }} <br/> <a href="{{ site.license_url }}">{{ site.license }}</a>
       <br>
+      {% endcomment %}
       UC Santa Barbara
     </p>
   </div>
