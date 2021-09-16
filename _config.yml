@@ -3,3 +3,6 @@
 remote_theme: poole/lanyon
 
 baseurl: '/not_mapping_twitter'
+
+# Setup
+description:         'Advice on why you should not map twitter data . Github repo: <a href="https://github.com/ucsb-collaboratory/not_mapping_twitter/" target="_blank"></a>.'
