@@ -1,6 +1,7 @@
 ---
 layout: page
 output: html_document
+title: Homepage
 ---
 
 [Less than 3% of tweets have location data](proportions.md). However, they are still a great source of information.
