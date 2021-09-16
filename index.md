@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Please Don't Map Twitter
 output: html_document
 ---
 
