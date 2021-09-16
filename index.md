@@ -5,6 +5,8 @@ output: html_document
 
 [Less than 3% of tweets have location data](proportions.md). However, they are still a great source of information.
 
+# Please Don't Map Twitter
+
 For those few tweets that do have location data, it appears when a user tags a place or shares their exact location. 
 
 ### Why not?
