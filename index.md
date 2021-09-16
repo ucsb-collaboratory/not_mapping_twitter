@@ -1,11 +1,10 @@
 ---
 layout: page
 output: html_document
+<!-- title: Please Don't Map Twitter -->
 ---
 
-# Please Don't Map Twitter
-
-<!-- getting the page to register as home -->
+<!-- # Please Don't Map Twitter -->
 
 [Less than 3% of tweets have location data](proportions.md). However, they are still a great source of information.
 
